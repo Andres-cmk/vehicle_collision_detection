@@ -18,7 +18,7 @@ Para esto se van a utilizar las siguientes herramientas:
 - 🤖🖼️ Roboflow - Gestión y anotación de datasets.
 - 👁️🛠️ OpenCV — Procesamiento de imágenes y video.
 
--- 
+--- 
 ## Descripción del objetivo del proyecto 📄✏️
 
 Este sistema inteligente integra modelos preentrenados de YOLO **(You Only Look Once)**, los cuales han sido adaptados y refinados mediante entrenamiento adicional utilizando datasets especializados en accidentes de tráfico.
