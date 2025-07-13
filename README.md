@@ -27,4 +27,8 @@ El conjunto de datos fue cuidadosamente seleccionado para asegurar una alta cali
 
 Esta capacidad mejora la precisión del sistema en situaciones reales, incluyendo aquellas donde se presentan colisiones, comportamientos anómalos o la presencia de objetos que no pertenecen al contexto vial. Con esto, el modelo no solo detecta, sino que comprende mejor el escenario del accidente, lo que es clave para sistemas de vigilancia, análisis forense y asistencia en tiempo real.
 
+--- 
+## Flujo del programa 📥
+<img width="1047" height="460" alt="image" src="https://github.com/user-attachments/assets/06753ea0-cbab-4976-b6a9-b0b9a1a50d9e" />
+
 
