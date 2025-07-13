@@ -14,6 +14,17 @@ En los últimos años, las técnicas de aprendizaje profundo han mejorado notabl
 Para esto se van a utilizar las siguientes herramientas: 
 - 👁️‍🗨️🧠 YOLO en su versión 11.
 - Python 3 🐍.
-- 💻☁️ Notebooks como COLAB de Google.
-- 🤖🖼️ Roboflow - Gestión y anotación de datasets
+- 💻☁️ Google Colab — Entrenamiento y pruebas en la nube.
+- 🤖🖼️ Roboflow - Gestión y anotación de datasets.
+- 👁️🛠️ OpenCV — Procesamiento de imágenes y video.
+
+-- 
+## Descripción del objetivo del proyecto 📄✏️
+
+Este sistema inteligente integra modelos preentrenados de YOLO **(You Only Look Once)**, los cuales han sido adaptados y refinados mediante entrenamiento adicional utilizando datasets especializados en accidentes de tráfico.
+
+El conjunto de datos fue cuidadosamente seleccionado para asegurar una alta calidad en la detección y clasificación de objetos relevantes en escenas viales, permitiendo no solo la identificación de vehículos, sino también de otros elementos presentes en el entorno, como peatones, señales de tránsito, motocicletas, escombros u objetos atípicos.
+
+Esta capacidad mejora la precisión del sistema en situaciones reales, incluyendo aquellas donde se presentan colisiones, comportamientos anómalos o la presencia de objetos que no pertenecen al contexto vial. Con esto, el modelo no solo detecta, sino que comprende mejor el escenario del accidente, lo que es clave para sistemas de vigilancia, análisis forense y asistencia en tiempo real.
+
 
